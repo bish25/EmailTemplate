@@ -11,7 +11,7 @@
         <RichTextBox x:Name="richTextBox" Margin="157,56,141,10" LostFocus="SaveCaretPostion">
             <FlowDocument/>
         </RichTextBox>
-        <ListView x:Name="listView" Height="490" Margin="882,92,10,0" VerticalAlignment="Top" MouseDoubleClick="Insert">
+        <ListView x:Name="listView" Height="312" Margin="882,92,10,0" VerticalAlignment="Top" MouseDoubleClick="Insert">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>
